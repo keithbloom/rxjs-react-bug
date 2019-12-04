@@ -1,0 +1,1 @@
+test('Some test', () => expect(true).toBeTruthy())
